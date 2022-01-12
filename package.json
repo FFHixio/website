@@ -14,7 +14,7 @@
   "devDependencies": {
     "canonical-path": "^1.0.0",
     "diff2html-cli": "^2.7.0",
-    "firebase-tools": "^7.6.2",
+    "firebase-tools": "^10.1.0",
     "fs-extra": "^7.0.1",
     "gulp": "^4.0.0",
     "gulp-cli": "^2.0.1",
